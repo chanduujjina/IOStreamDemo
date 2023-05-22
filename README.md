@@ -4,6 +4,13 @@
 <h2>Introduction to IOStreams in Java</h2>
 <h3>What are IOStreams?</h3>
 <h3>Types of IOStreams</h3>
+<ul>
+  <li>Java IOStreams are classified into two types:</li>
+  <ul>
+    <li>Byte Streams: Used for handling raw binary data.</li>
+    <li>Character Streams: Used for handling character-based data, such as text.</li>
+  </ul>
+  </ul>
  <h3>IOStream Classes</h3>
   <ul>
     <li>FileInputStream: Reads bytes from a file.</li>
