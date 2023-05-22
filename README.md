@@ -52,4 +52,14 @@
     <li>BufferedWriter: Efficiently writes characters to a Writer.</li>
      <ul>
        
+       <h3>Standard IO streams</h3>
+         <ul>
+           <li>Describe the three standard IO streams: System.in, System.out, and System.err.</li>
+           <li>System.in: Standard input stream for reading data from the console.</li>
+           <li>System.out: Standard output stream for writing data to the console.</li>
+           <li>System.err: Standard error stream for writing error messages to the console</li>
+       </ul>
+           
+      
+       
    
