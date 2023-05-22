@@ -12,6 +12,7 @@
     <li>Character Streams: Used for handling character-based data, such as text.</li>
   </ul>
   </ul>
+  
    
    <h3>Byte Streams</h3>
     <ul>
