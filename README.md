@@ -5,5 +5,5 @@
 <h3>What are IOStreams?</h3>
 <ul>
   <li>IOStreams provide an efficient way to handle input and output operations in Java.</li>
-  <li></li>
+  <li>They are used to read from and write to different types of data sources, such as files, network connections, and memory.</li>
   <ul>
