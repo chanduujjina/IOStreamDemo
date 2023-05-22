@@ -13,7 +13,7 @@
   </ul>
   </ul>
   
-   
+   <img src="src\images\Input-Output-Stream_base_diagram.jpg" alt="Trulli" width="500" height="333">
    <h3>Byte Streams</h3>
     <ul>
       <li>Byte Streams read and write data as individual bytes.</li>
