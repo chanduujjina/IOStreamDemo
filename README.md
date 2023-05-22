@@ -11,6 +11,9 @@
     <li>Character Streams: Used for handling character-based data, such as text.</li>
   </ul>
   </ul>
+  <h3>What are Object Streams?</h3>
+   <h3>What are Standard IO streams?</h3>
+  
  <h3>IOStream Classes</h3>
   <ul>
     <li>FileInputStream: Reads bytes from a file.</li>
