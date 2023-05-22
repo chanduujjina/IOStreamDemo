@@ -25,7 +25,7 @@
          <li>OutputStream: Used to write bytes to a data destination.</li>
       </ul>
        </ul>
-    <h3>Character Streams<h3>
+    <h3>Character Streams</h3>
    <ul>
      <li>Character Streams read and write data as characters.</li>
      <li>Example character stream classes:</li>
@@ -34,5 +34,22 @@
        <li>Writer: Used to write characters to a data destination.</li>
      </ul>
   </ul>
+  
+  <h3>Object Streams</h3>
+  <ul>
+  <li>Need for object serialization in Java.</li>
+  <li>What is ObjectInputStream and ObjectOutputStream for object streams.</li>
+  <li>readObject() and writeObject() methods for reading and writing objects.</li>
+  </ul>
+  
+   <h3>IOStream Classes</h3>
+  <ul>
+    <li>FileInputStream: Reads bytes from a file.</li>
+    <li>FileOutputStream: Writes bytes to a file.</li>
+    <li>FileReader: Reads characters from a file.</li>
+    <li>FileWriter: Writes characters to a file.</li>
+    <li>BufferedReader: Efficiently reads characters from a Reader.</li>
+    <li>BufferedWriter: Efficiently writes characters to a Writer.</li>
+     <ul>
        
    
