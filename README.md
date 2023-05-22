@@ -24,7 +24,7 @@
     <li>BufferedWriter: Efficiently writes characters to a Writer.</li>
      </ul>
      
-     <a href="IOStreams,md.md">Click here for IOstreams details explianation</a>  </br>
+     <a href="IOStreams.md">Click here for IOstreams details explaination</a>  </br>
        
       
            
