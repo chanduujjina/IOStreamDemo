@@ -42,7 +42,7 @@
   </ul>
   
    <h3>Standard IO streams</h3>
-    <img src="src\images\Standars_IO_Streams.jpg" alt="Trulli">
+    <img src="src\images\Standars_IO_Streams.png" alt="Trulli">
     <ul>
     <li>Describe the three standard IO streams: System.in, System.out, and System.err.</li>
      <li>System.in: Standard input stream for reading data from the console.</li>
