@@ -50,7 +50,7 @@
     <li>FileWriter: Writes characters to a file.</li>
     <li>BufferedReader: Efficiently reads characters from a Reader.</li>
     <li>BufferedWriter: Efficiently writes characters to a Writer.</li>
-     <ul>
+     </ul>
        
        <h3>Standard IO streams</h3>
          <ul>
