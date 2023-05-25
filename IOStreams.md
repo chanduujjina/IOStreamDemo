@@ -2,6 +2,12 @@
 <h3>What are IOStreams?</h3>
  <img src="src\images\Input-Output-Stream_base_diagram.jpg" alt="Trulli">
  <h3>Types of Streams:</h3>
+ <ol>
+ <li>Input Stream:These streams are used to read data that must be taken as an input from a source array or file or any peripheral device. For eg., FileInputStream, BufferedInputStream, ByteArrayInputStream etc.</li>
+ <li>
+  Output Stream: These streams are used to write data as outputs into an array or file or any output peripheral device. For eg., FileOutputStream, BufferedOutputStream, ByteArrayOutputStream etc.
+ </li>
+ </ol>
 <ul>
   <li>IOStreams provide an efficient way to handle input and output operations in Java.</li>
   <li>They are used to read from and write to different types of data sources, such as files, network connections, and memory.</li>
