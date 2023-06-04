@@ -20,7 +20,7 @@ public class FileHandlingDemo {
 			docType = "video";
 
 		} else if (sourceBasePath.contains(DocType.audio.name())) {
-			docType = "addio";
+			docType = "audio";
 		}
 		else {
 		   throw new Exception("Invalid doctype");
