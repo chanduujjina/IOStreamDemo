@@ -13,7 +13,7 @@ public class FileInputSteamDemo2 {
 		
 		System.out.println(fis.available());
 		
-		char ch1 = (char)fis.read();
+		char ch1 = (char) fis.read();
 		System.out.println(ch1);
 		
 		System.out.println(fis.available());

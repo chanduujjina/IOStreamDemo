@@ -50,8 +50,8 @@ public class FileHandlingDemo {
 		boolean createNewFile = file.createNewFile();
 		System.out.println("file created::" + createNewFile);
 
-		// read the file from source
 
+		// read the file from source
 		try (FileInputStream fis = new FileInputStream(sourceBasePath);
 				FileOutputStream fous = new FileOutputStream(file)) {
 			int i = 0;

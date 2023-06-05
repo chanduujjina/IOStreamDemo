@@ -15,7 +15,7 @@ public class ByteArrayInputStreamDemo2 {
 		int read1 = byArrStream.read();
 		
 		System.out.println(read1);
-		byArrStream.mark(4);
+		byArrStream.mark(2);
 		
 		int read2= byArrStream.read();
 		System.out.println(read2);
