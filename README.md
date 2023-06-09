@@ -35,7 +35,7 @@
 </ul>
 
 <h3>How to prevent Singleton class from Serilization</h3>
-<h3>How customize Serilzation?</h3>
+<h3>Customize Serilzation?</h3>
  <h4>By the Externalization we can achive custom Serilzation</h4>
 
  
