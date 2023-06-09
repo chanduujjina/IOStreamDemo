@@ -26,7 +26,13 @@
      
   <a href="IOStreams.md">Click here for IOstreams details explaination</a>  </br>
   
-  Sushma added
+ <h3>What is serilzation?</h3>
+  <h4>Steps to remember while doing Serilzation</h4>
+ <ul>
+  <li>For is a relation :if Parent class is serilizable child class also serilzable implcitly></li>
+  <li>Has relation:Both main and dependent class must Serilize.Then only we can achieve Serilzation</li>
+</ul>
+ 
        
       
            
