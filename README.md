@@ -38,6 +38,8 @@
 <h3>How to prevent Singleton class rule violation from the serlization Serilization</h3>
 <h3>Customize Serilzation?</h3>
  <h4>By the Externalization we can achive custom Serilzation</h4>
+ 
+  <a href="Serlization.md">Click here for Serilization and externallization details explaination</a>  </br>
 
 
        
