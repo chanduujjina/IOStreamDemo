@@ -25,7 +25,20 @@
      </ul>
      
   <a href="IOStreams.md">Click here for IOstreams details explaination</a>  </br>
-  Sushma added
+
+  <h3>What is Serilzation and Deserilzation?</h3>
+  <h4>Steps to remember while doing Serilzation</h4>
+ <ul>
+  <li>For is a relation :if Parent class implements serilizable interface child class also serilzable implcitly</li>
+  <li>Has relation:Both main and dependent class must implements serilizable interface.Then only we can achieve Serilzation</li>
+  <li>Cannot Serilize static varible</li>
+</ul>
+
+<h3>How to prevent Singleton class rule violation from the serlization Serilization</h3>
+<h3>Customize Serilzation?</h3>
+ <h4>By the Externalization we can achive custom Serilzation</h4>
+
+
        
       
            
