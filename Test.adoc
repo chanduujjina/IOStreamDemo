@@ -1,0 +1,11 @@
+[appendix]
+[[Common_Docker_Commands]]
+== Common Docker Commands
+
+[width="100%", options="header"]
+|==================
+| Purpose| Command
+2+^s| Image
+| Build an image| `docker image build --rm=true .`
+| Install an image | `docker image pull ${IMAGE}`
+|==================
