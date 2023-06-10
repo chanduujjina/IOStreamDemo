@@ -36,10 +36,16 @@
  </ul>
  
  <h3>Transient keyword</h3>
- <h4>Transient keyword is used for below scenarios</h4>
+ <h4>Transient keyword is used for below cases</h4>
  <ul>
   <li>Field should not be serialized when an object of the class is serialized</li>
   <li>When you want to exclude specific fields from being persisted.</li>
+  </ul>
+  <h4>Some common scenarios where you might use the transient keyword include</h4>
+  <ul>
+  <li>Fields holding sensitive information (e.g., passwords, encryption keys) that you don't want to persist.</li>
+  <li>Fields that are derived or calculated based on other fields and don't need to be saved</li>
+    <li>Fields referencing non-serializable objects that you don't want to include in the serialized form.</li>
   </ul>
   
   
