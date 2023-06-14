@@ -29,8 +29,25 @@
      <li>Example character stream classes:</li>
      <ul>
        <li>Reader: Used to read characters from a data source.</li>
+       <ol>
+         <li>BufferedReader</li>
+         <li>CharArrayReader</li>
+         <li>FilterReader</li>
+         <li>InputStreamReader</li>
+         <li>PipedReader</li>
+         <li>StringReader</li>
+       </ol>
        <li>Writer: Used to write characters to a data destination.</li>
+       <ol>
+       <li>CharArrayWriter</li>
+         <li>FilterWriter</li>
+         <li>OutputStreamWriter</li>
+         <li>PipedWriter</li>
+         <li>PrintWriter</li>
+         <li>StringWriter</li>
+       </ol>
      </ul>
+   <li></li>
   </ul>
   
   <h3>Object Streams</h3>
